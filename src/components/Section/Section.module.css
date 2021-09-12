@@ -1,0 +1,8 @@
+.section {
+    width: 1000px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    background: no-repeat center/100%  url("../img/phonebook.jpg");
+    background-size: inherit;
+    margin: auto;
+}
